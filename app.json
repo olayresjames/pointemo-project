@@ -43,6 +43,19 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e3ada9f5-80ce-411c-9d7e-8a815032e595"
+      }
+    },
+    "owner": "james-olayres",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e3ada9f5-80ce-411c-9d7e-8a815032e595"
     }
   }
 }
